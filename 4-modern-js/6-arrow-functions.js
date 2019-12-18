@@ -1,5 +1,5 @@
 const square = (a) => {
-  return a * a;
+    return a * a;
 };
 
 // const square = (a) => a * a;

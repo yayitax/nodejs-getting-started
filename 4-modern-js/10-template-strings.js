@@ -7,3 +7,4 @@ const html = `
     ${Math.random()}
   </div>
 `;
+// Supports interpolation
