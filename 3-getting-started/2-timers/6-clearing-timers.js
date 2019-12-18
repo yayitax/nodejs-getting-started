@@ -1,6 +1,9 @@
 const timerId = setTimeout(
-  () => console.log('You will not see this one!'),
-  0
+    () => console.log('You will not see this one!'),
+    0
 );
 
 clearTimeout(timerId);
+
+//clearInterval
+//clearImmediate
